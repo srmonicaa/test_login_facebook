@@ -1,0 +1,24 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Facebook  log in or sign up/button_Log in",
+      "brokenLocator": "//button[@id\u003d\u0027u_0_5_25\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//button",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Facebook  log in or sign up/button_Log in_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Facebook/div_Tambahkan Foto",
+      "brokenLocator": "//div[@id\u003d\u0027mount_0_0_kr\u0027]/div/div/div/div[3]/div/div/div/div/div/div[2]/div/div/div[2]/div/div/div/div/div[2]/div/div/div",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[2]/div/div/div/div/div[2]/div/div/div",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Facebook/div_Tambahkan Foto_position.png"
+    }
+  ]
+}
